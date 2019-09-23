@@ -1,2 +1,3 @@
 # HF_Tuner
 HF - 6m Antenna Tuner
+This tuner was originally conceived as a companion for DIY transceiver kits like the QCX, uBITX and other amateur radio transceiver kits. It was designed to be self-contained and easy to integrate into an enclosure. All controls are located on a single plane for easy attachment to a front panel. It also has 4 corner mounting holes for secure mounting to a base plate or enclosure bottom. This design is now being offered as a kit through my company web site at http://www.celeritous.com The latest assembly instructions may also be obtained there or at http://www.K5ABL.com.
